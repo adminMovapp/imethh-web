@@ -32,7 +32,7 @@ export default defineConfig({
    },
    server: {
       // host: '192.168.3.143', //'192.168.3.143', // host: true,
-      port: 7001,
+      port: 7008,
       headers: {
          'X-Frame-Options': 'SAMEORIGIN',
          'X-Content-Type-Options': 'nosniff',
